@@ -6,6 +6,8 @@ Merhaba ben Kudret. BA-Boost-5 öğrencisiyim.
 ![Resim Adi](https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif)
 
 ### Sınıf Listesi
+
+- Github Adı: yigith [Yiğit Hacıefendioğlu](https://github.com/yigith)
 - Github Adı: galipyildiz  [Galip Yildiz](https://github.com/galipyildiz)
 - Github Adı: BilgehanArici [Bilgehan Arıcı](https://github.com/BilgehanArici)
 - Github Adı: sinaemre      [Sina Emre Bekar](https://github.com/sinaemre)
